@@ -1,0 +1,15 @@
+.my-input{
+    border: none;
+    padding: 8px;
+    border-bottom: 1px solid;
+    width: 100%;
+    background-color:  rgba(128, 128, 128, 0.155) ;
+}
+body{
+    font-family: 'Dosis', sans-serif;
+    background-color: rgba(128, 128, 128, 0.059);
+}
+
+.style-form{
+    color: rgb(0, 0, 249);
+}
